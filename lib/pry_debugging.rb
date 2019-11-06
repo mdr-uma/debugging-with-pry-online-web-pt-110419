@@ -1,4 +1,4 @@
-def plus_two(num = 5)
+def plus_two(3)
 	num + 2
 	num
 
